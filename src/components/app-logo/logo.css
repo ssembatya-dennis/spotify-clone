@@ -1,0 +1,12 @@
+.logo-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.2rem;
+  padding: 3.2rem 5.4rem 2.4rem 3.2rem;
+}
+
+.logo-text {
+  font-size: 2rem;
+  color: var(--color-primary);
+}

@@ -1,0 +1,31 @@
+.account {
+  padding: 1rem 2rem;
+}
+
+.account_title {
+  margin: 0 0 1rem 1rem;
+}
+
+.account_component {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.account__text-box {
+  color: #fff;
+}
+
+.main-text {
+  display: block;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.sub-text {
+  display: block;
+  font-weight: 400;
+  font-size: 12px;
+  opacity: 0.6;
+}

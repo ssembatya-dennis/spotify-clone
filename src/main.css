@@ -1,0 +1,34 @@
+:root {
+  --color-grey-light: #eee;
+  --color-white: #fff;
+  --color-primary: #1cd863;
+  --color-Bg-dark: #17171a;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: var(--color-grey-light);
+  line-height: 1.4;
+  box-sizing: inherit;
+}
+
+.app-container {
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  background-color: var(--color-Bg-dark);
+}

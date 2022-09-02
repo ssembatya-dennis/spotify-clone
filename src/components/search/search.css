@@ -1,0 +1,22 @@
+.search-bar {
+  position: relative;
+}
+
+.search {
+  width: 225px;
+  height: 55px;
+  background: transparent;
+  border: 2px solid var(--color-Bg-dark);
+  border-radius: 5px;
+  padding-left: 37px;
+  font-size: 1.7rem;
+  margin: 0 18px 15px;
+}
+
+.search-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  position: absolute;
+  top: 1.4rem;
+  left: 2.5rem;
+}
