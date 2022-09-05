@@ -1,0 +1,33 @@
+table {
+  width: 719px;
+  border-collapse: collapse;
+  border: none;
+}
+
+table a {
+  text-decoration: none;
+  color: #fff;
+}
+
+td {
+  padding: 1.9rem;
+}
+
+figure {
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+}
+
+.caption {
+  font-weight: 700;
+  font-size: 19px;
+  color: #ffffff;
+}
+
+.song-info {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  opacity: 0.6;
+}
