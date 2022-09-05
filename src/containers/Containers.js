@@ -5,3 +5,5 @@ export { default as Article } from "./article-details/ArticleDetails";
 export { default as MainStream } from "./main-stream/MainStream";
 export { default as Media } from "./media/Media";
 export { default as SideArticle } from "./side-article/SideArticle";
+export { default as Subscription } from "./subscription/Subscription";
+export { default as Library } from "./library/Library";

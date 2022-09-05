@@ -32,3 +32,13 @@ body {
   width: 100%;
   background-color: var(--color-Bg-dark);
 }
+
+.app-container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.subscription {
+  margin-bottom: 2rem;
+}

@@ -1,0 +1,66 @@
+.subscription {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 719px;
+  height: 20rem;
+  background: #191a1d;
+  border-radius: 25px;
+  margin-top: 1.9rem;
+  padding: 3.1rem 4.1rem;
+}
+
+.subscription-details {
+}
+
+.subscription_title {
+  font-weight: 600;
+  font-size: 26px;
+  margin-bottom: 1.1rem;
+  color: #ffffff;
+}
+
+.subscription_text {
+  font-weight: 400;
+  font-size: 19px;
+  margin-bottom: 2.2rem;
+  color: #ffffff;
+}
+
+.cta__box {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cta {
+  font-weight: 500;
+  font-size: 16px;
+  width: 134px;
+  height: 53px;
+  border-radius: 10px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cta__premium {
+  background-color: #1cd863;
+  color: #fff;
+}
+
+.cta__free {
+  background-color: transparent;
+  color: #fff;
+  opacity: 0.4;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+.subscription__img-box {
+}
+
+.subscription__img {
+  border-radius: 25px;
+}
