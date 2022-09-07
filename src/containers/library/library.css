@@ -1,5 +1,5 @@
 table {
-  width: 719px;
+  width: 100%;
   border-collapse: collapse;
   border: none;
 }
@@ -13,7 +13,7 @@ td {
   padding: 1.9rem;
 }
 
-figure {
+.library__figure {
   display: flex;
   gap: 5rem;
   align-items: center;

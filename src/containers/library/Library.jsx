@@ -17,7 +17,7 @@ class Library extends React.Component {
           <tr>
             <td>
               <a href="#libraryLink">
-                <figure>
+                <figure className="library__figure">
                   <img src={Tile01} alt="tile 1" />
                   <figcaption className="caption">Vaaste</figcaption>
                 </figure>
@@ -37,7 +37,7 @@ class Library extends React.Component {
           <tr>
             <td>
               <a href="#libraryLink">
-                <figure>
+                <figure className="library__figure">
                   <img src={Tile02} alt="tile 2" />
                   <figcaption className="caption">Pyar Di Kahani</figcaption>
                 </figure>
@@ -57,7 +57,7 @@ class Library extends React.Component {
           <tr>
             <td>
               <a href="#libraryLink">
-                <figure>
+                <figure className="library__figure">
                   <img src={Tile03} alt="tile 1" />
                   <figcaption className="caption">Waalian</figcaption>
                 </figure>
@@ -77,7 +77,7 @@ class Library extends React.Component {
           <tr>
             <td>
               <a href="#libraryLink">
-                <figure>
+                <figure className="library__figure">
                   <img src={Tile04} alt="tile 1" />
                   <figcaption className="caption">Kabhi Tumhe</figcaption>
                 </figure>
@@ -97,7 +97,7 @@ class Library extends React.Component {
           <tr>
             <td>
               <a href="#libraryLink">
-                <figure>
+                <figure className="library__figure">
                   <img src={Tile05} alt="tile 1" />
                   <figcaption className="caption">Khabbi Seat</figcaption>
                 </figure>

@@ -1,5 +1,5 @@
 import React from "react";
-import { SideArticle, MainStream } from "./containers/Containers";
+import { SideArticle, MainStream, Article } from "./containers/Containers";
 
 class App extends React.Component {
   render() {
@@ -7,6 +7,7 @@ class App extends React.Component {
       <main className="app-container">
         <SideArticle />
         <MainStream />
+        <Article />
       </main>
     );
   }

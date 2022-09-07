@@ -1,0 +1,48 @@
+.article {
+  display: inline-block;
+  vertical-align: top;
+  width: 23%;
+  height: 100%;
+  background: #1b1c1f;
+  border-radius: 19px;
+  margin-top: 2rem;
+}
+
+.podcast__main-head {
+  padding: 3.6rem 2rem 0 2.6rem;
+}
+
+.podcast__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.podcast__list-item {
+  display: flex;
+  align-items: center;
+  margin: 3.1rem 2rem 2rem 2.7rem;
+  gap: 3.4rem;
+}
+
+.podcast__figure {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.7rem;
+}
+
+.main-caption {
+  display: block;
+  font-weight: 700;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.sub-caption {
+  display: block;
+  font-weight: 400;
+  font-size: 13px;
+  color: #ffffff;
+  opacity: 0.6;
+}

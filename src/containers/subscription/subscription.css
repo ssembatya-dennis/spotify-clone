@@ -3,15 +3,12 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 719px;
+  width: 100%;
   height: 20rem;
   background: #191a1d;
   border-radius: 25px;
   margin-top: 1.9rem;
   padding: 3.1rem 4.1rem;
-}
-
-.subscription-details {
 }
 
 .subscription_title {
@@ -56,9 +53,6 @@
   color: #fff;
   opacity: 0.4;
   border: 1px solid rgba(255, 255, 255, 0.8);
-}
-
-.subscription__img-box {
 }
 
 .subscription__img {
