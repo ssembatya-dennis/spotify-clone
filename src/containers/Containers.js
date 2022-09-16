@@ -7,3 +7,5 @@ export { default as Media } from "./media/Media";
 export { default as SideArticle } from "./side-article/SideArticle";
 export { default as Subscription } from "./subscription/Subscription";
 export { default as Library } from "./library/Library";
+export { default as SignUp } from "./layout/sign-up/SignUp";
+export { default as Login } from "./layout/log-in/LogIn";
