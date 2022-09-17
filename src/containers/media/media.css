@@ -1,0 +1,42 @@
+.media {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  height: 9.5rem;
+  background: #18191c;
+  padding: 0 1.5rem;
+
+  position: fixed;
+  bottom: 0;
+  left: 27.1rem;
+}
+
+.media__info {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.media__controls {
+  margin-right: 8rem;
+}
+
+.media__figure {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.media__react {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  margin-left: 3rem;
+}
+
+.media__duration {
+  display: flex;
+  align-items: center;
+  gap: 5.8rem;
+}
